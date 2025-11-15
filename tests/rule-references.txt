@@ -172,6 +172,7 @@ https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
 https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-flow-logs.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -326,6 +327,7 @@ https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
+https://cert.gov.ua/article/6284080
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
 https://chromium.googlesource.com/chromium/chromium/+/master/content/public/common/content_switches.cc
 https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
@@ -1021,6 +1023,7 @@ https://github.com/Hackndo/lsassy/blob/14d8f8ae596ecf22b449bfe919829173b8a07635/
 https://github.com/Hackplayers/evil-winrm
 https://github.com/Hackplayers/evil-winrm/blob/7514b055d67ec19836e95c05bd63e7cc47c4c2aa/evil-winrm.rb
 https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+https://github.com/HackTricks-wiki/hacktricks/blob/e4c7b21b8f36c97c35b7c622732b38a189ce18f7/src/windows-hardening/windows-local-privilege-escalation/privilege-escalation-with-autorun-binaries.md
 https://github.com/hackvens/CoercedPotato
 https://github.com/hannob/apache-uaf/blob/da40f2be3684c8095ec6066fa68eb5c07a086233/README.md
 https://github.com/harleyQu1nn/AggressorScripts
@@ -1558,6 +1561,7 @@ https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/ocsp.profile
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/onedrive_getonly.profile
 https://github.com/rsp/scripts/blob/c8bb272d68164a9836e4f273d8f924927f39b8c6/externalip-benchmark.md
+https://github.com/rtecCyberSec/BitlockMove
 https://github.com/rvrsh3ll/Misc-Powershell-Scripts/blob/6f23bb41f9675d7e2d32bacccff75e931ae00554/OfficeMemScraper.ps1
 https://github.com/S12cybersecurity/RDPCredentialStealer
 https://github.com/S12cybersecurity/RDPCredentialStealer/blob/1b8947cdd065a06c1b62e80967d3c7af895fcfed/APIHookInjectorBin/APIHookInjectorBin/Inject.h#L25
@@ -1835,6 +1839,7 @@ https://learn.microsoft.com/en-us/archive/blogs/jonathantrull/detecting-sticky-k
 https://learn.microsoft.com/en-us/archive/blogs/pki/basic-crl-checking-with-certutil
 https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-user-accounts#unusual-sign-ins
 https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-userstates
+https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-monitor-federation-changes
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#activity-from-anonymous-ip-address
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#anomalous-token
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#anomalous-user-activity
@@ -1879,6 +1884,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defen
 https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.hpc.scheduler.store.cx509enrollmentwebclassfactoryclass?view=hpc-sdk-5.1.6115
 https://learn.microsoft.com/en-us/dotnet/api/system.appdomain.load?view=net-7.0
+https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.eventing.reader.eventlogsession.clearlog?view=windowsdesktop-9.0&viewFallbackFrom=dotnet-plat-ext-5.0#System_Diagnostics_Eventing_Reader_EventLogSession_ClearLog_System_String_
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadstring?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
@@ -2444,6 +2450,7 @@ https://oddvar.moe/2018/04/27/gpscript-exe-another-lolbin-to-the-list/
 https://oddvar.moe/2018/09/06/persistence-using-universal-windows-platform-apps-appx/
 https://okta.github.io/okta-help/en/prod/Content/Topics/Security/threat-insight/configure-threatinsight-system-log.htm
 https://old.zeek.org/zeekweek2019/slides/bzar.pdf
+https://onapsis.com/blog/active-exploitation-of-sap-vulnerability-cve-2025-31324/
 https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow
 https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
 https://outflank.nl/blog/2018/01/16/hunting-for-evil-detect-macros-being-executed/
@@ -2563,6 +2570,7 @@ https://redcanary.com/blog/msix-installers/
 https://redcanary.com/blog/raspberry-robin/
 https://redcanary.com/blog/rclone-mega-extortion/
 https://redcanary.com/blog/right-to-left-override/
+https://redcanary.com/blog/threat-intelligence/intelligence-insights-october-2024/
 https://redcanary.com/blog/yellow-cockatoo/
 https://redcanary.com/threat-detection-report/
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
@@ -2896,6 +2904,7 @@ https://tria.ge/240226-fhbe7sdc39/behavioral1
 https://tria.ge/240301-rk34sagf5x/behavioral2
 https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
 https://trustedsec.com/blog/adexplorer-on-engagements
+https://trustedsec.com/blog/command-line-underdog-wmic-in-action
 https://trustedsec.com/blog/oops-i-udld-it-again
 https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change
 https://trustedsec.com/blog/wmi-for-script-kiddies
@@ -3335,6 +3344,7 @@ https://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/
 https://unit42.paloaltonetworks.com/unit42-sure-ill-take-new-combojack-malware-alters-clipboards-steal-cryptocurrency/
 https://unit42.paloaltonetworks.com/unit42-technical-walkthrough-office-test-persistence-method-used-in-recent-sofacy-attacks/
 https://unit42.paloaltonetworks.com/unsigned-dlls/?web_view=true
+https://us-cert.cisa.gov/ncas/alerts/aa21-259a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar19-304a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-112a
@@ -3382,6 +3392,7 @@ https://web.archive.org/web/20210511204621/https://github.com/AlsidOfficial/WSUS
 https://web.archive.org/web/20210512154016/https://github.com/AlsidOfficial/WSUSpendu/blob/master/WSUSpendu.ps1
 https://web.archive.org/web/20210701042336/https://github.com/afwu/PrintNightmare
 https://web.archive.org/web/20210901184449/https://www.fireeye.com/blog/threat-research/2021/09/unknown-actor-using-clfs-log-files-for-stealth.html
+https://web.archive.org/web/20211001064856/https://github.com/snovvcrash/DInjector
 https://web.archive.org/web/20220224045756/https://www.ria.ee/sites/default/files/content-editors/kuberturve/tale_of_gamaredon_infection.pdf
 https://web.archive.org/web/20220306121156/https://www.x86matthew.com/view_post?id=ntdll_pipe
 https://web.archive.org/web/20220419045003/https://cyberwardog.blogspot.com/2017/04/chronicles-of-threat-hunter-hunting-for.html
@@ -3404,6 +3415,7 @@ https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/thre
 https://web.archive.org/web/20230409194125/https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
+https://web.archive.org/web/20231210115125/http://www.xuetr.com/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4j-zero-day/
 https://wikileaks.org/vault7/#Pandemic
@@ -3651,6 +3663,7 @@ https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-t
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
 https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
 https://www.huntress.com/blog/attacking-mssql-servers
+https://www.huntress.com/blog/blackcat-ransomware-affiliate-ttps
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
@@ -3725,6 +3738,7 @@ https://www.logpoint.com/en/blog/detecting-tor-use-with-logpoint/
 https://www.logpoint.com/en/blog/detecting-zerologon-vulnerability-in-logpoint/
 https://www.logpoint.com/en/blog/shenanigans-of-scheduled-tasks/
 https://www.loobins.io/binaries/hdiutil/
+https://www.loobins.io/binaries/nscurl/
 https://www.loobins.io/binaries/sysctl/#
 https://www.loobins.io/binaries/tmutil/
 https://www.lunasec.io/docs/blog/log4j-zero-day/
@@ -4153,6 +4167,7 @@ https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
 https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/
 https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
 https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
 https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/
