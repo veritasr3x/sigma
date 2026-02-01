@@ -88,6 +88,7 @@ https://any.run/report/68bc255f9b0db6a0d30a8f2dadfbee3256acfe12497bf93943bc1eab0
 https://anydesk.com/en/changelog/windows
 https://app.any.run/tasks/17f2d378-6d11-4d6f-8340-954b04f35e83/
 https://app.any.run/tasks/1df999e6-1cb8-45e3-8b61-499d1b7d5a9b/
+https://app.any.run/tasks/1efb3ed4-cc0f-4690-a0ed-24516809bc72/
 https://app.any.run/tasks/210244b9-0b6b-4a2c-83a3-04bd3175d017/
 https://app.any.run/tasks/214094a7-0abc-4a7b-a564-1b757faed79d/
 https://app.any.run/tasks/25970bb5-f864-4e9e-9e1b-cc8ff9e6386a
@@ -177,6 +178,7 @@ https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
 https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/
 https://bazaar.abuse.ch/sample/6f3aa9362d72e806490a8abce245331030d1ab5ac77e400dd475748236a6cc81/
+https://bazaar.abuse.ch/sample/7bde840c7e8c36dce4c3bac937bcf39f36a6f118001b406bfbbc25451ce44fb4/
 https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
 https://bczyz1.github.io/2021/01/30/psexec.html
 https://bhabeshraj.com/post/tampering-with-microsoft-defenders-tamper-protection
@@ -711,6 +713,7 @@ https://en.wikipedia.org/wiki/HTML_Application
 https://en.wikipedia.org/wiki/IExpress
 https://en.wikipedia.org/wiki/List_of_Microsoft_Office_filename_extensions
 https://en.wikipedia.org/wiki/Nohup
+https://en.wikipedia.org/wiki/Right-to-left_override
 https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/
 https://enigma0x3.net/2016/11/17/bypassing-application-whitelisting-by-using-dnx-exe/
 https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
@@ -754,6 +757,7 @@ https://forensicitguy.github.io/agenttesla-vba-certutil-download/
 https://forensicitguy.github.io/analyzing-magnitude-magniber-appx/
 https://forensicitguy.github.io/xloader-formbook-velvetsweatshop-spreadsheet/
 https://forums.veeam.com/veeam-backup-replication-f2/recover-esxi-password-in-veeam-t34630.html
+https://fourcore.io/blogs/threat-hunting-browser-credential-stealing
 https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/
 https://fr.slideshare.net/codeblue_jp/cb19-recent-apt-attack-on-crypto-exchange-employees-by-heungsoo-kang
 https://ghoulsec.medium.com/misc-series-4-forensics-on-edrsilencer-events-428b20b3f983
@@ -2022,7 +2026,9 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4776
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5038
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6281
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6416
@@ -2104,6 +2110,7 @@ https://learn.microsoft.com/en-us/windows/client-management/manage-recall
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
 https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-memcm
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
@@ -2384,6 +2391,7 @@ https://mikefrobbins.com/2017/06/15/simple-obfuscation-with-powershell-using-bas
 https://mn3m.info/posts/suid-vs-capabilities/
 https://mobile.twitter.com/0gtweet/status/1564131230941122561
 https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/
+https://moonlock.com/amos-backdoor-persistent-access
 https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw
 https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247484117&idx=1&sn=2fdab8cbe4b873f8dd8abb35d935d186
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-credentials-local
@@ -2544,6 +2552,7 @@ https://posts.specterops.io/mavinject-exe-functionality-deconstructed-c29ab2cf5c
 https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f
 https://posts.specterops.io/requesting-azure-ad-request-tokens-on-azure-ad-joined-machines-for-browser-sso-2b0409caad30
 https://posts.specterops.io/shhmon-silencing-sysmon-via-driver-unload-682b5be57650
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
 https://powersploit.readthedocs.io/en/latest/Persistence/Install-SSP/
 https://powersploit.readthedocs.io/en/latest/Privesc/Write-HijackDll/
 https://powersploit.readthedocs.io/en/stable/Recon/README
@@ -2586,6 +2595,7 @@ https://redcanary.com/blog/msix-installers/
 https://redcanary.com/blog/raspberry-robin/
 https://redcanary.com/blog/rclone-mega-extortion/
 https://redcanary.com/blog/right-to-left-override/
+https://redcanary.com/blog/threat-detection/process-masquerading/
 https://redcanary.com/blog/yellow-cockatoo/
 https://redcanary.com/threat-detection-report/
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
@@ -2690,6 +2700,7 @@ https://securityintelligence.com/posts/raspberry-robin-worm-dridex-malware/
 https://securityintelligence.com/x-force/x-force-hive0129-targeting-financial-institutions-latam-banking-trojan/
 https://securityjosh.github.io/2020/04/23/Mute-Sysmon.html
 https://securitylab.github.com/research/octopus-scanner-malware-open-source-supply-chain
+https://securitylabs.datadoghq.com/cloud-security-atlas/vulnerabilities/iam-user-without-mfa/
 https://securityliterate.com/how-malware-abuses-the-zone-identifier-to-circumvent-detection-and-analysis/
 https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware
 https://securityxploded.com/
@@ -3519,6 +3530,7 @@ https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-tar
 https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 https://www.carbonblack.com/2014/06/10/screenshot-demo-hunt-evil-faster-than-ever-with-carbon-black/
 https://www.carbonblack.com/blog/tau-threat-intelligence-notification-lockergoga-ransomware/
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-302a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a
@@ -3757,6 +3769,7 @@ https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
+https://www.linkedin.com/posts/mauricefielenbach_livingofftheland-redteam-persistence-activity-7344801774182051843-TE00/
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
 https://www.linkedin.com/pulse/outlook-backdoor-using-vba-samir-b-/
@@ -3825,6 +3838,7 @@ https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mi
 https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
 https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/
 https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+https://www.microsoft.com/en-us/security/blog/2025/04/15/threat-actors-misuse-node-js-to-deliver-malware-and-other-malicious-payloads/
 https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/03/Figure-7-sample-webdav-process-create-event.png
 https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=TrojanSpy%3aMSIL%2fHakey.A
 https://www.microsoft.com/security/blog/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/
@@ -3928,6 +3942,7 @@ https://www.rapid7.com/blog/post/2023/01/19/etr-exploitation-of-control-web-pane
 https://www.rapid7.com/blog/post/2023/02/07/etr-cve-2022-21587-rapid7-observed-exploitation-of-oracle-e-business-suite-vulnerability/
 https://www.rapid7.com/blog/post/2023/06/01/rapid7-observed-exploitation-of-critical-moveit-transfer-vulnerability/
 https://www.rapid7.com/blog/post/2023/10/25/etr-cve-2023-4966-exploitation-of-citrix-netscaler-information-disclosure-vulnerability/
+https://www.rapid7.com/blog/post/tr-crimson-collective-a-new-threat-group-observed-operating-in-the-cloud/
 https://www.rarlab.com/vuln_rev3_names.html
 https://www.real-sec.com/2019/04/bypassing-network-restrictions-through-rdp-tunneling/
 https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/
@@ -4044,6 +4059,7 @@ https://www.trendmicro.com/en_us/research/23/h/an-overview-of-the-new-rhysida-ra
 https://www.trendmicro.com/en_us/research/24/b/threat-actor-groups-including-black-basta-are-exploiting-recent-.html
 https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html
 https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
+https://www.trendmicro.com/en_us/research/25/c/windows-shortcut-zero-day-exploit.html
 https://www.trendmicro.com/en_za/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
 https://www.trendmicro.com/pl_pl/research/20/i/the-evolution-of-malicious-shell-scripts.html
 https://www.trendmicro.com/vinfo/hk-en/security/news/cybercrime-and-digital-threats/malicious-spam-campaign-uses-iso-image-files-to-deliver-lokibot-and-nanocore
