@@ -153,6 +153,7 @@ https://arcticwolf.com/resources/blog/lorenz-ransomware-chiseling-in/
 https://artkond.com/2017/03/23/pivoting-guide/
 https://asec.ahnlab.com/en/38156/
 https://asec.ahnlab.com/en/39828/
+https://asec.ahnlab.com/en/40263/
 https://asec.ahnlab.com/en/58878/
 https://asec.ahnlab.com/en/61000/
 https://asec.ahnlab.com/en/78944/
@@ -411,6 +412,7 @@ https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-p
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_network.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_storage.html
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_system.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vm.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vsan.html
 https://developer.okta.com/docs/reference/api/event-types/
@@ -691,6 +693,7 @@ https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-r
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
+https://docs.stellarcyber.ai/5.2.x/Using/ML/Alert-Rule-Based-Potentially_Malicious_AWS_Activity.html
 https://documentation.pdq.com/PDQDeploy/13.0.3.0/index.html?windows-services.htm
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
@@ -1030,6 +1033,7 @@ https://github.com/Hackndo/lsassy/blob/14d8f8ae596ecf22b449bfe919829173b8a07635/
 https://github.com/Hackplayers/evil-winrm
 https://github.com/Hackplayers/evil-winrm/blob/7514b055d67ec19836e95c05bd63e7cc47c4c2aa/evil-winrm.rb
 https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+https://github.com/HackTricks-wiki/hacktricks/blob/e4c7b21b8f36c97c35b7c622732b38a189ce18f7/src/windows-hardening/windows-local-privilege-escalation/privilege-escalation-with-autorun-binaries.md
 https://github.com/hackvens/CoercedPotato
 https://github.com/hannob/apache-uaf/blob/da40f2be3684c8095ec6066fa68eb5c07a086233/README.md
 https://github.com/harleyQu1nn/AggressorScripts
@@ -1618,6 +1622,7 @@ https://github.com/sleventyeleven/linuxprivchecker/blob/0d701080bbf92efd464e97d7
 https://github.com/snovvcrash/DInjector
 https://github.com/splunk/security_content/blob/0dd6de32de2118b2818550df9e65255f4109a56d/detections/endpoint/petitpotam_network_share_access_request.yml
 https://github.com/splunk/security_content/blob/300af51b88ad5d5b27ce4f5f54e4d6e6a3a2c06d/detections/endpoint/office_spawning_control.yml
+https://github.com/splunk/security_content/blob/7283ba3723551f46b69dfeb23a63b358afb2cb0e/lookups/browser_app_list.csv?plain=1
 https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152b42043db/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/office_spawning_control.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
@@ -1767,6 +1772,7 @@ https://inquest.net/blog/2018/06/22/a-look-at-formbook-stealer
 https://insight-jp.nttsecurity.com/post/102hojk/operation-restylink-apt-campaign-targeting-japanese-companies
 https://insights.sei.cmu.edu/blog/the-dangers-of-vhd-and-vhdx-files/
 https://int0x33.medium.com/day-44-linux-capabilities-privilege-escalation-via-openssl-with-selinux-enabled-and-enforced-74d2bec02099
+https://intel.thedfirreport.com/eventReports/view/70
 https://intel.thedfirreport.com/events/view/30032
 https://intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/
 https://intezer.com/wp-content/uploads/2021/09/TeamTNT-Cryptomining-Explosion.pdf
@@ -2035,6 +2041,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd348773(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731033(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731620(v=ws.11)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731935(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc742107(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc771151(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh875578(v=ws.11)
@@ -2075,6 +2082,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chcp
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/clip
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskshadow
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dnscmd
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/erase
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/fsutil-usn
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult
@@ -2108,6 +2116,7 @@ https://learn.microsoft.com/en-us/windows/msix/package/package-support-framework
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
 https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-memcm
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
@@ -2334,6 +2343,7 @@ https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2022/06/230935
 https://medium.com/@7a616368/can-you-track-processes-accessing-the-camera-and-microphone-7e6885b37072
 https://medium.com/@ahmed.moh.farou2/fake-captcha-campaign-on-arabic-pirated-movie-sites-delivers-lumma-stealer-4f203f7adabf
 https://medium.com/@blueteamops/shimcache-flush-89daff28d15e
+https://medium.com/@boutnaru/the-windows-foreniscs-journey-run-mru-run-dialog-box-most-recently-used-57375a02d724
 https://medium.com/@cyberjyot/lolbin-execution-via-diskshadow-f6ff681a27a4
 https://medium.com/@cyberjyot/t1218-008-dll-execution-using-odbcconf-exe-803fa9e08dac
 https://medium.com/@DCSO_CyTec/mssql-meet-maggie-898773df3b01
@@ -2879,6 +2889,7 @@ https://thedfirreport.com/2022/11/28/emotet-strikes-again-lnk-file-leads-to-doma
 https://thedfirreport.com/2023/01/09/unwrapping-ursnifs-gifts/
 https://thedfirreport.com/2023/02/06/collect-exfiltrate-sleep-repeat/
 https://thedfirreport.com/2023/03/06/2022-year-in-review/
+https://thedfirreport.com/2023/04/03/malicious-iso-file-leads-to-domain-wide-ransomware
 https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/
 https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
@@ -2889,6 +2900,7 @@ https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
 https://thehackernews.com/2024/03/github-rolls-out-default-secret.html
 https://thehackernews.com/2024/03/two-chinese-apt-groups-ramp-up-cyber.html
 https://thehackernews.com/2024/12/cisa-and-fbi-raise-alerts-on-exploited.html
+https://thehackernews.com/2025/03/unpatched-windows-zero-day-flaw.html
 https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild/
 https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/
 https://thewover.github.io/Introducing-Donut/
@@ -3389,6 +3401,7 @@ https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/p
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
 https://web.archive.org/web/20170319121015/http://www.threatgeek.com/2017/03/widespread-exploitation-attempts-using-cve-2017-5638.html
 https://web.archive.org/web/20170715043507/http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
+https://web.archive.org/web/20170909091934/https://blog.binarydefense.com/reliably-detecting-pass-the-hash-through-event-log-analysis
 https://web.archive.org/web/20171001085340/https://subt0x10.blogspot.com/2017/04/bypass-application-whitelisting-script.html
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
 https://web.archive.org/web/20180331144337/https://www.fireeye.com/blog/threat-research/2018/03/sanny-malware-delivery-method-updated-in-recently-observed-attacks.html
@@ -3688,6 +3701,7 @@ https://www.gorillastack.com/blog/real-time-events/important-aws-cloudtrail-secu
 https://www.gov.pl/attachment/ee91f24d-3e67-436d-aa50-7fa56acf789d
 https://www.gpg4win.de/documentation.html
 https://www.gradenegger.eu/en/details-of-the-event-with-id-53-of-the-source-microsoft-windows-certificationauthority/
+https://www.greynoise.io/blog/new-scraper-botnet-concentrated-in-taiwan
 https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
 https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-day-tren-microsoft-exchange-server-12714.html
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
@@ -3882,6 +3896,7 @@ https://www.netspi.com/blog/technical/network-penetration-testing/decrypting-iis
 https://www.netspi.com/blog/technical/network-penetration-testing/sql-server-persistence-part-1-startup-stored-procedures/
 https://www.nextron-systems.com/2021/08/16/antivirus-event-analysis-cheat-sheet-v1-8-2/
 https://www.nextron-systems.com/2021/10/24/monero-mining-pool-fqdns/
+https://www.nextron-systems.com/2024/03/22/unveiling-kamikakabot-malware-analysis/
 https://www.nextron-systems.com/?s=antivirus
 https://www.nirsoft.net/utils/nircmd.html
 https://www.nirsoft.net/utils/nircmd2.html#using
@@ -3993,6 +4008,7 @@ https://www.slipstick.com/developer/custom-form/clean-outlooks-forms-cache/
 https://www.snip2code.com/Snippet/4397378/UAC-bypass-using-EditionUpgradeManager-C/
 https://www.socinvestigation.com/most-common-windows-event-ids-to-hunt-mind-map/
 https://www.softpedia.com/get/Antivirus/Removal-Tools/ithurricane-PowerTool.shtml
+https://www.softperfect.com/products/networkscanner/
 https://www.softwaretestinghelp.com/how-to-use-ngrok/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://www.spamhaus.org/statistics/tlds/
@@ -4098,6 +4114,7 @@ https://www.uptycs.com/blog/warzonerat-can-now-evade-with-process-hollowing
 https://www.us-cert.gov/ncas/alerts/TA17-117A
 https://www.us-cert.gov/ncas/alerts/TA17-293A
 https://www.us-cert.gov/ncas/analysis-reports/AR18-312A
+https://www.validin.com/blog/exploring_notepad_plus_plus_network_indicators/
 https://www.varonis.com/blog/investigate-ntlm-brute-force
 https://www.vectra.ai/blog/undermining-microsoft-teams-security-by-mining-tokens
 https://www.vectra.ai/blogpost/undermining-microsoft-teams-security-by-mining-tokens
