@@ -214,6 +214,7 @@ https://blog.cyble.com/2023/01/12/rhadamanthys-new-stealer-spreading-through-goo
 https://blog.cyble.com/2023/01/18/aurora-a-stealer-using-shapeshifting-tactics/
 https://blog.didierstevens.com/2015/03/16/quickpost-metasploit-user-agent-strings/
 https://blog.dylan.codes/evading-sysmon-and-windows-event-logging/
+https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures
 https://blog.eclecticiq.com/sandworm-apt-targets-ukrainian-users-with-trojanized-microsoft-kms-activation-tools-in-cyber-espionage-campaigns
 https://blog.emsisoft.com/en/32373/beware-new-wave-of-malware-spreads-via-iso-file-email-attachments/
 https://blog.f-secure.com/analysis-of-lockergoga-ransomware/
@@ -336,6 +337,7 @@ https://clement.notin.org/blog/2020/09/12/CVE-2020-7315-McAfee-Agent-DLL-injecti
 https://cloud.google.com/access-context-manager/docs/audit-logging
 https://cloud.google.com/binary-authorization
 https://cloud.google.com/blog/topics/threat-intelligence/alphv-ransomware-backup/
+https://cloud.google.com/blog/topics/threat-intelligence/apt41-initiates-global-intrusion-campaign-using-multiple-exploits/
 https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger/
 https://cloud.google.com/dlp/docs/reference/rest/v2/projects.content/reidentify
 https://cloud.google.com/dns/docs/reference/v1/managedZones
@@ -483,6 +485,7 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/113121765/config-vpn-ssl-web-portal
 https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/398/event
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44546/44546-logid-event-config-attr
@@ -699,6 +702,7 @@ https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/#enabling-core-dum
 https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joatd/index.html
 https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/scrcons-exe-rare-child-process.html
 https://docs.python.org/2/library/simplehttpserver.html
+https://docs.python.org/3/library/base64.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-nftables_configuring-and-managing-networking
@@ -725,6 +729,7 @@ https://en.wikipedia.org/wiki/HTML_Application
 https://en.wikipedia.org/wiki/IExpress
 https://en.wikipedia.org/wiki/List_of_Microsoft_Office_filename_extensions
 https://en.wikipedia.org/wiki/Nohup
+https://en.wikipedia.org/wiki/Right-to-left_override
 https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/
 https://enigma0x3.net/2016/11/17/bypassing-application-whitelisting-by-using-dnx-exe/
 https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
@@ -1836,6 +1841,7 @@ https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/
 https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
 https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
 https://kubernetes.io/docs/reference/kubernetes-api/authorization-resources/cluster-role-v1/#ClusterRole
 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
 https://lab52.io/blog/2344-2/
@@ -1918,6 +1924,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defen
 https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference
 https://learn.microsoft.com/en-us/dotnet/api/microsoft.hpc.scheduler.store.cx509enrollmentwebclassfactoryclass?view=hpc-sdk-5.1.6115
 https://learn.microsoft.com/en-us/dotnet/api/system.appdomain.load?view=net-7.0
+https://learn.microsoft.com/en-us/dotnet/api/system.identitymodel.tokens.kerberosrequestorsecuritytoken?view=netframework-4.8.1
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadstring?view=net-8.0
 https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0
@@ -1929,6 +1936,7 @@ https://learn.microsoft.com/en-us/dotnet/framework/tools/installutil-exe-install
 https://learn.microsoft.com/en-us/dotnet/framework/tools/regsvcs-exe-net-services-installation-tool
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-authentication-flows
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-configuration-changes
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-credentials
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#end-user-consent
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#end-user-stopped-due-to-risk-based-consent
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#new-owner
@@ -1992,6 +2000,7 @@ https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomput
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-addefaultdomainpasswordpolicy?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/bitstransfer/add-bitsfile?view=windowsserver2019-ps
+https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference
 https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dism/disable-windowsoptionalfeature?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dnsclient/add-dnsclientnrptrule?view=windowsserver2022-ps
@@ -2121,6 +2130,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/takeown
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
@@ -2564,6 +2574,7 @@ https://persistence-info.github.io/Data/windowsterminalprofile.html
 https://persistence-info.github.io/Data/wpbbin.html
 https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
 https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1388
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472
@@ -2787,6 +2798,7 @@ https://ss64.com/nt/mklink.html
 https://ss64.com/nt/net-service.html
 https://ss64.com/nt/netsh.html
 https://ss64.com/nt/regsvr32.html
+https://ss64.com/nt/set.html
 https://ss64.com/nt/shell.html
 https://ss64.com/nt/syntax-redirection.html
 https://ss64.com/osx/csrutil.html
@@ -3568,6 +3580,7 @@ https://www.blue-prints.blog/content/blog/posts/lolbin/addinutil-lolbas.html
 https://www.bluecoat.com/en-gb/security-blog/2015-05-05/know-your-agents
 https://www.bluetangle.dev/2022/08/fastening-seatbelt-on-threat-hunting.html
 https://www.blumira.com/cve-2023-2283/
+https://www.broadcom.com/support/security-center/protection-bulletin/funksec-ransomware
 https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence
 https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 https://www.carbonblack.com/2014/06/10/screenshot-demo-hunt-evil-faster-than-ever-with-carbon-black/
@@ -3741,6 +3754,7 @@ https://www.hackers-arise.com/post/2016/06/20/covering-your-bash-shell-tracks-an
 https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
+https://www.heise.de/en/news/Notepad-updater-installed-malware-11109726.html
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
@@ -4007,6 +4021,7 @@ https://www.sans.org/cyber-security-summit/archives
 https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
 https://www.sans.org/webcasts/119395
 https://www.sans.org/webcasts/tech-tuesday-workshop-cobalt-strike-detection-log-analysis-119395
+https://www.scpx.com.au/2025/11/16/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/
 https://www.scythe.io/library/threat-emulation-qakbot
 https://www.secuinfra.com/en/techtalk/hide-your-hypervisor-analysis-of-esxiargs-ransomware/
 https://www.secura.com/blog/zero-logon
