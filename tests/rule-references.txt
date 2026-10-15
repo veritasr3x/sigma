@@ -486,6 +486,7 @@ https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
 https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/398/event
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44546/44546-logid-event-config-attr
+https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44547/44547-logid-event-config-objattr
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -757,6 +758,7 @@ https://eqllib.readthedocs.io/en/latest/analytics/fcdb99c2-ac3c-4bde-b664-4b3363
 https://eqllib.readthedocs.io/en/latest/analytics/fd9b987a-1101-4ed3-bda6-a70300eaf57e.html
 https://ermetic.com/blog/aws/aws-ec2-imds-what-you-need-to-know/
 https://evasions.checkpoint.com/techniques/macos.html
+https://expel.com/blog/cache-smuggling-when-a-picture-isnt-a-thousand-words/
 https://f5.pm/go-59627.html
 https://fabian-voith.de/2020/06/25/sysmon-v11-1-reads-alternate-data-streams/
 https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
@@ -1636,6 +1638,7 @@ https://github.com/sleventyeleven/linuxprivchecker/blob/0d701080bbf92efd464e97d7
 https://github.com/snovvcrash/DInjector
 https://github.com/splunk/security_content/blob/0dd6de32de2118b2818550df9e65255f4109a56d/detections/endpoint/petitpotam_network_share_access_request.yml
 https://github.com/splunk/security_content/blob/300af51b88ad5d5b27ce4f5f54e4d6e6a3a2c06d/detections/endpoint/office_spawning_control.yml
+https://github.com/splunk/security_content/blob/7283ba3723551f46b69dfeb23a63b358afb2cb0e/lookups/browser_app_list.csv?plain=1
 https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152b42043db/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/office_spawning_control.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
@@ -1810,6 +1813,7 @@ https://isc.sans.edu/forums/diary/Active+Directory+Certificate+Services+ADCS+PKI
 https://isc.sans.edu/forums/diary/Desktopini+as+a+postexploitation+tool/25912/
 https://isc.sans.edu/forums/diary/Investigating+Microsoft+BITS+Activity/23281/
 https://itconnect.uw.edu/tools-services-support/it-systems-infrastructure/msinf/other-help/understanding-sddl-syntax/
+https://itm4n.github.io/cdpsvc-dll-hijacking/
 https://jamesonhacking.blogspot.com/2020/12/pivoting-to-private-aws-s3-buckets.html
 https://jasonmull.com/articles/offensive/2025-05-12-windows-crash-dumps-offensive-security/
 https://jdhnet.wordpress.com/2017/12/19/changing-the-location-of-the-windows-event-logs/
@@ -1951,6 +1955,7 @@ https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protectio
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#anomalous-token
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#anomalous-user-activity
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#anonymous-ip-address
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#atypical-travel
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#azure-ad-threat-intelligence-sign-in
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#azure-ad-threat-intelligence-user
 https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#impossible-travel
@@ -2120,6 +2125,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/set_1
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
@@ -2189,6 +2195,7 @@ https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
+https://learn.microsoft.com/it-it/powershell/module/exchangepowershell/new-inboxrule?view=exchange-ps
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
@@ -2201,6 +2208,7 @@ https://linux.die.net/man/1/truncate
 https://linux.die.net/man/1/wget
 https://linux.die.net/man/1/xclip
 https://linux.die.net/man/1/xwd
+https://linux.die.net/man/8/auditct
 https://linux.die.net/man/8/groupdel
 https://linux.die.net/man/8/insmod
 https://linux.die.net/man/8/pam_tty_audit
@@ -2351,6 +2359,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/sysinfo.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -3748,6 +3757,7 @@ https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-t
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
 https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
 https://www.huntress.com/blog/attacking-mssql-servers
+https://www.huntress.com/blog/attacking-mssql-servers-pt-ii
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/curling-for-data-a-dive-into-a-threat-actors-malicious-ttps
@@ -3814,6 +3824,7 @@ https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
+https://www.linkedin.com/posts/mauricefielenbach_livingofftheland-redteam-persistence-activity-7344801774182051843-TE00/
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
 https://www.linkedin.com/pulse/outlook-backdoor-using-vba-samir-b-/
@@ -4052,6 +4063,7 @@ https://www.splunk.com/en_us/blog/security/breaking-the-chain-defending-against-
 https://www.splunk.com/en_us/blog/security/darkside-ransomware-splunk-threat-update-and-detections.html
 https://www.splunk.com/en_us/blog/security/follina-for-protocol-handlers.html
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
+https://www.splunk.com/en_us/blog/security/you-bet-your-lsass-hunting-lsass-access.html
 https://www.sprocketsecurity.com/resources/crossing-the-log4j-horizon-a-vulnerability-with-no-return
 https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://www.sygnia.co/golden-saml-advisory
@@ -4291,6 +4303,7 @@ https://www.youtube.com/watch?v=ggY3srD9dYs&ab_channel=GrzegorzTworek
 https://www.youtube.com/watch?v=Ie831jF0bb0
 https://www.youtube.com/watch?v=JGs-aKf2OtU&ab_channel=OFFZONEMOSCOW
 https://www.youtube.com/watch?v=ro2QuZTIMBM
+https://www.youtube.com/watch?v=uSYvHUVU8xY
 https://www.youtube.com/watch?v=VmvY5SQm5-Y&ab_channel=M45C07
 https://www.zerodayinitiative.com/advisories/ZDI-21-1308/
 https://www.zerodayinitiative.com/advisories/ZDI-23-491/
@@ -4308,6 +4321,7 @@ https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
 https://x.com/defusedcyber/status/1971492272966598683
+https://x.com/JangPr0/status/1932034543026065833
 https://x.com/nas_bench/status/1868639048484425963
 https://x.com/NullSecurityX/status/1937444064867029179
 https://x.com/russianpanda9xx/status/1940831134759506029
