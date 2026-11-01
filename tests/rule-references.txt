@@ -131,6 +131,7 @@ https://app.any.run/tasks/9a8fd563-4c54-4d0a-9ad8-1fe08339cbc3/
 https://app.any.run/tasks/9c0f37bc-867a-4314-b685-e101566766d7/
 https://app.any.run/tasks/a6aa0057-82ec-451f-8f99-55650ca537da/
 https://app.any.run/tasks/abdf586e-df0c-4d39-89a7-06bf24913401/
+https://app.any.run/tasks/ae3c4ded-fd6a-43ed-8215-ba0ba574ad33
 https://app.any.run/tasks/b12cccf3-1c22-4e28-9d3e-c7a6062f3914/
 https://app.any.run/tasks/b9040c63-c140-479b-ad59-f1bb56ce7a97/
 https://app.any.run/tasks/c28cabc8-a19f-40f3-a78b-cae506a5c0d4
@@ -336,6 +337,7 @@ https://clement.notin.org/blog/2020/09/12/CVE-2020-7315-McAfee-Agent-DLL-injecti
 https://cloud.google.com/access-context-manager/docs/audit-logging
 https://cloud.google.com/binary-authorization
 https://cloud.google.com/blog/topics/threat-intelligence/alphv-ransomware-backup/
+https://cloud.google.com/blog/topics/threat-intelligence/evolution-of-fin7/
 https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger/
 https://cloud.google.com/dlp/docs/reference/rest/v2/projects.content/reidentify
 https://cloud.google.com/dns/docs/reference/v1/managedZones
@@ -703,6 +705,7 @@ https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-nftables_configuring-and-managing-networking
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
+https://docs.stellarcyber.ai/5.2.x/Using/ML/Alert-Rule-Based-Potentially_Malicious_AWS_Activity.html
 https://documentation.pdq.com/PDQDeploy/13.0.3.0/index.html?windows-services.htm
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
@@ -1075,6 +1078,7 @@ https://github.com/Immersive-Labs-Sec/nimbuspwn
 https://github.com/j00sean/SecBugs/tree/ff72d553f75d93e1a0652830c0f74a71b3f19c46/CVEs/CVE-2023-27363
 https://github.com/joaoviictorti/RustRedOps/tree/ce04369a246006d399e8c61d9fe0e6b34f988a49/Self_Deletion
 https://github.com/JoelGMSec/PSAsyncShell
+https://github.com/JohnHammond/recaptcha-phish
 https://github.com/jpalanco/alienvault-ossim/blob/f74359c0c027e42560924b5cff25cdf121e5505a/os-sim/agent/src/ParserUtil.py#L951
 https://github.com/jpillora/chisel/
 https://github.com/jsecurity101/MSRPC-to-ATTACK/blob/ddd4608fe8684fcf2fcf9b48c5f0b3c28097f8a3/documents/MS-DRSR.md
@@ -1986,6 +1990,7 @@ https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/4464eaf0-f
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/d42db7d5-f141-4466-8f47-0a4be14e2fc1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rrp/0fa3191d-bb79-490a-81bd-54c2601b7a78
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/02b1f559-fda2-4ba3-94c2-806eb2777183
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/accf23b0-0f57-441c-9185-43041f1b0ee9
 https://learn.microsoft.com/en-us/outlook/troubleshoot/security/information-about-email-security-settings
 https://learn.microsoft.com/en-us/powershell/high-performance-computing/mpiexec?view=hpc19-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer
@@ -2468,6 +2473,7 @@ https://news.sophos.com/en-us/2022/07/14/blackcat-ransomware-attacks-not-merely-
 https://news.sophos.com/en-us/2022/11/03/family-tree-dll-sideloading-cases-may-be-related/
 https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/
 https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive
+https://news.sophos.com/en-us/2025/05/09/lumma-stealer-coming-and-going/
 https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
 https://ngrok.com/
@@ -3487,6 +3493,7 @@ https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/thre
 https://web.archive.org/web/20230409194125/https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
+https://web.archive.org/web/20231015205935/https://githubmemory.com/repo/FunctFan/JNDIExploit
 https://web.archive.org/web/20231210115125/http://www.xuetr.com/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4j-zero-day/
@@ -3742,6 +3749,7 @@ https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
 https://www.helpnetsecurity.com/2023/08/02/aws-instances-attackers-access/
+https://www.hexacorn.com/blog/2018/05/28/beyond-good-ol-run-key-part-78-2/
 https://www.hhs.gov/sites/default/files/manage-engine-vulnerability-sector-alert-tlpclear.pdf
 https://www.horizon3.ai/manageengine-cve-2022-47966-technical-deep-dive/
 https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-tooling
@@ -4105,6 +4113,7 @@ https://www.trendmicro.com/en_us/research/23/h/an-overview-of-the-new-rhysida-ra
 https://www.trendmicro.com/en_us/research/24/b/threat-actor-groups-including-black-basta-are-exploiting-recent-.html
 https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html
 https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
+https://www.trendmicro.com/en_us/research/25/i/an-mdr-analysis-of-the-amos-stealer-campaign.html
 https://www.trendmicro.com/en_za/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
 https://www.trendmicro.com/pl_pl/research/20/i/the-evolution-of-malicious-shell-scripts.html
 https://www.trendmicro.com/vinfo/hk-en/security/news/cybercrime-and-digital-threats/malicious-spam-campaign-uses-iso-image-files-to-deliver-lokibot-and-nanocore
@@ -4308,6 +4317,7 @@ https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
 https://x.com/defusedcyber/status/1971492272966598683
+https://x.com/JangPr0/status/1932034543026065833
 https://x.com/nas_bench/status/1868639048484425963
 https://x.com/NullSecurityX/status/1937444064867029179
 https://x.com/russianpanda9xx/status/1940831134759506029
