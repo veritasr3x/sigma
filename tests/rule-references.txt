@@ -286,6 +286,7 @@ https://blogs.blackberry.com/en/2022/05/dirty-deeds-done-dirt-cheap-russian-rat-
 https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian-war-to-attack-europe-and-asia-pacific-targets
 https://blogs.blackberry.com/en/2023/06/romcom-resurfaces-targeting-ukraine
 https://blogs.blackberry.com/en/2023/07/romcom-targets-ukraine-nato-membership-talks-at-nato-summit
+https://blogs.blackberry.com/en/2024/07/akira-ransomware-targets-the-latam-airline-industry
 https://blogs.jpcert.or.jp/en/2022/07/yamabot.html
 https://blogs.jpcert.or.jp/en/2023/05/gobrat.html
 https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild
@@ -465,6 +466,7 @@ https://docs.aws.amazon.com/config/latest/developerguide/cloudtrail-log-files-fo
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteFileSystem.html
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteMountTarget.html
 https://docs.aws.amazon.com/glue/latest/webapi/API_CreateDevEndpoint.html
+https://docs.aws.amazon.com/guardduty/latest/APIReference/API_DeleteDetector.html
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-kubernetes.html#privilegeescalation-kubernetes-privilegedcontainer
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_suspend-disable.html
 https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteSAMLProvider.html
@@ -479,6 +481,7 @@ https://docs.aws.amazon.com/singlesignon/latest/userguide/app-enablement.html
 https://docs.aws.amazon.com/singlesignon/latest/userguide/sso-info-in-cloudtrail.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRoleWithSAML.html
+https://docs.aws.amazon.com/STS/latest/APIReference/API_GetCallerIdentity.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
@@ -1836,6 +1839,7 @@ https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/
 https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
 https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
 https://kubernetes.io/docs/reference/kubernetes-api/authorization-resources/cluster-role-v1/#ClusterRole
 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
 https://lab52.io/blog/2344-2/
@@ -2091,6 +2095,7 @@ https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/
 https://learn.microsoft.com/en-us/visualstudio/deployment/how-to-configure-the-clickonce-trust-prompt-behavior
 https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/security-malware-windows-defender-threatseveritydefaultaction
 https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options
+https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/bcdedit--set
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/dtrace
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-command-syntax
@@ -2191,6 +2196,7 @@ https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
+https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
 https://linux.die.net/man/1/arecord
 https://linux.die.net/man/1/bash
@@ -2351,6 +2357,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/syslog.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -2632,6 +2639,7 @@ https://redcanary.com/blog/rclone-mega-extortion/
 https://redcanary.com/blog/right-to-left-override/
 https://redcanary.com/blog/yellow-cockatoo/
 https://redcanary.com/threat-detection-report/
+https://redcanary.com/threat-detection-report/techniques/email-hiding-rules/
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
 https://redcanary.com/threat-detection-report/threats/dridex/
 https://redcanary.com/threat-detection-report/threats/qbot/
@@ -2703,6 +2711,7 @@ https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
 https://securelist.com/faq-the-projectsauron-apt/75533/
 https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/
 https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 https://securelist.com/locked-out/68960/
@@ -4304,6 +4313,7 @@ https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-d
 https://www.zscaler.com/blogs/security-research/steal-it-campaign
 https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransomware
 https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attack-vectors-apt37
+https://www.zscaler.fr/blogs/security-research/threat-actors-exploit-cve-2017-11882-deliver-agent-tesla
 https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
